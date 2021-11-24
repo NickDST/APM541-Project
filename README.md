@@ -14,6 +14,10 @@ Here is a stochastic process starting entirely with infected, showing that entir
 ![alt text](gifs/init_infected.gif)
 
 
+Here is a stochastic process that shows the typical behavior of infection and alert, if all rates are set to 2. 
+![alt text](gifs/SS_2V_2A.gif)
+
+
 ## Data and References
 
 The graph data is from Stanford's Graph database : https://snap.stanford.edu/data/index.html
