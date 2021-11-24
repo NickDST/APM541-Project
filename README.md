@@ -12,3 +12,10 @@ I programmed the process in Python to create the gif above and other visuals. I 
 
 Here is a stochastic process starting entirely with infected, showing that entirely infected is not an absorbing state. 
 ![alt text](gifs/init_infected.gif)
+
+
+## Data and References
+
+The graph data is from Stanford's Graph database : https://snap.stanford.edu/data/index.html
+
+Content about contact processes were referenced from this book: https://link.springer.com/book/10.1007/978-3-319-50038-6 
